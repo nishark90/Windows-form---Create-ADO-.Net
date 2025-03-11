@@ -16,7 +16,7 @@ namespace Windows_form___Create_ADO.Net
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Delete());
+            Application.Run(new max_mark ());
         }
     }
 }
